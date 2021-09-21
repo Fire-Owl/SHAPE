@@ -1,0 +1,3 @@
+cuprum regular => tout les titres & menus
+
+nunito sans => § & reste
